@@ -1,1 +1,4 @@
-# Test
+---
+title: Test title
+---
+# Test header
