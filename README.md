@@ -1,1 +1,0 @@
-# detod.github.io
